@@ -311,7 +311,7 @@ h4 {
 }
 
 .operations__tab--active {
-  transform: translateY(-66%);
+  transform: translateY(-72%);
 }
 
 .operations__content {
